@@ -32,7 +32,7 @@
 
 <div align="center">
 
-| <a href="https://github.com/birgifsym/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=birgifsym&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true&bg_color=fffefe" alt="Maysa GitHub Stats" /></a> | <a href="https://github.com/birgifsym/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birgifsym&layout=compact&hide_border=true" alt="Maysa GitHub Stats" /></a> |
+| <a href="https://github.com/birgifsym/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=birgifsym&show_icons=true&theme=buefy&include_all_commits=true&hide_border=true" alt="Maysa GitHub Stats" /></a> | <a href="https://github.com/birgifsym/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birgifsym&layout=compact&hide_border=true" alt="Maysa GitHub Stats" /></a> |
 | ------------- | ------------- |
 
 </div>
