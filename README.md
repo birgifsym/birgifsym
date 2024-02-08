@@ -37,8 +37,6 @@
 | <a href="https://github.com/birgifsym/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=birgifsym&show_icons=true&theme=graywhite&include_all_commits=true&hide_border=true" alt="Maysa GitHub Stats" /></a> | <a href="https://github.com/birgifsym/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birgifsym&layout=compact&theme=graywhite&hide_border=true" alt="Maysa GitHub Stats" /></a> |
 | ------------- | ------------- |
 
-<br><br>
-
 </div>
 
 ```
