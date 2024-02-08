@@ -10,6 +10,8 @@
 
 <div align="left" style="text-align: justify" >Sou formada em Engenharia Ambiental e Sanitária, mas minha paixão crescente pela tecnologia me levou a embarcar em uma transição de carreira para a área de programação, que despertou meu interesse desde os tempos de faculdade. Atualmente, estou imersa na exploração das últimas novidades tecnológicas, tentando me encontrar nesse mundo em constante mudança.</div>
 
+<br><br>
+
 ```
 > Technologies and Tools
 ```
@@ -22,6 +24,8 @@
   <img align="center" alt="Maysa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
 
+<br><br>
+
 </div>
 
 ```
@@ -32,6 +36,8 @@
 
 | <a href="https://github.com/birgifsym/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=birgifsym&show_icons=true&theme=graywhite&include_all_commits=true&hide_border=true" alt="Maysa GitHub Stats" /></a> | <a href="https://github.com/birgifsym/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birgifsym&layout=compact&theme=graywhite&hide_border=true" alt="Maysa GitHub Stats" /></a> |
 | ------------- | ------------- |
+
+<br><br>
 
 </div>
 
