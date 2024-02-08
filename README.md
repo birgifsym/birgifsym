@@ -2,13 +2,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=40&pause=1000&color=98989C&center=true&multiline=true&random=false&width=600&height=100&lines=%F0%9F%92%95+Welcome+to+my+GitHub+%F0%9F%92%95;I'm+Maysa+Ribeiro" align="middle" alt="Welcome to my GitHub I'm Maysa Ribeiro animated typed out" /></a>
 </div>
 
+<br><br>
+
 ``` 
 > About Me
 ```
 
 <div align="left" style="text-align: justify" >Sou formada em Engenharia Ambiental e Sanitária, mas minha paixão crescente pela tecnologia me levou a embarcar em uma transição de carreira para a área de programação, que despertou meu interesse desde os tempos de faculdade. Atualmente, estou imersa na exploração das últimas novidades tecnológicas, tentando me encontrar nesse mundo em constante mudança.</div>
-
-<br><br>
 
 ```
 > Technologies and Tools
@@ -21,8 +21,6 @@
   <img align="center" alt="Maysa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maysa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
-
-<br><br>
 
 </div>
 
