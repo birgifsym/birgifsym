@@ -19,9 +19,9 @@
 <div align="center" display="inline">
 
  <div align="justify">
-  <img align="center" alt="Maysa-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maysa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maysa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Maysa-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  </div>
 
 <br><br>
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-| <a href="https://github.com/birgifsym/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=birgifsym&show_icons=true&theme=graywhite&include_all_commits=true&hide_border=true" alt="Maysa GitHub Stats" /></a> | <a href="https://github.com/birgifsym/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birgifsym&layout=compact&theme=graywhite&hide_border=true" alt="Maysa GitHub Stats" /></a> |
+| <a href="https://github.com/birgifsym/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=birgifsym&show_icons=true&theme=jolly&include_all_commits=true&hide_border=true" alt="Maysa GitHub Stats" /></a> | <a href="https://github.com/birgifsym/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birgifsym&layout=compact&theme=jolly&hide_border=true" alt="Maysa GitHub Stats" /></a> |
 | ------------- | ------------- |
 
 </div>
